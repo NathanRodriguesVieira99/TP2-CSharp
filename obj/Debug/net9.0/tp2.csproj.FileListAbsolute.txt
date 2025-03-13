@@ -1,0 +1,14 @@
+C:\Projetos VsCode\TP2 C#\tp2\bin\Debug\net9.0\tp2.exe
+C:\Projetos VsCode\TP2 C#\tp2\bin\Debug\net9.0\tp2.deps.json
+C:\Projetos VsCode\TP2 C#\tp2\bin\Debug\net9.0\tp2.runtimeconfig.json
+C:\Projetos VsCode\TP2 C#\tp2\bin\Debug\net9.0\tp2.dll
+C:\Projetos VsCode\TP2 C#\tp2\bin\Debug\net9.0\tp2.pdb
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.AssemblyInfoInputs.cache
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.AssemblyInfo.cs
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.csproj.CoreCompileInputs.cache
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.dll
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\refint\tp2.dll
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.pdb
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.genruntimeconfig.cache
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\ref\tp2.dll
