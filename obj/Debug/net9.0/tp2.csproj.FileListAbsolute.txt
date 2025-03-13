@@ -12,3 +12,4 @@ C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\refint\tp2.dll
 C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.pdb
 C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.genruntimeconfig.cache
 C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\ref\tp2.dll
+C:\Projetos VsCode\TP2 C#\tp2\obj\Debug\net9.0\tp2.sourcelink.json
